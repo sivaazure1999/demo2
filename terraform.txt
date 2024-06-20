@@ -1,1 +1,2 @@
 welcome to terraform in devops
+terraform is used to infra structure
